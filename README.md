@@ -37,11 +37,10 @@ cat file  # Verify shared access by reading content created in Instance 1
 ## OUTPUT
 ### REG NUMBER: 212223220021
 ### NAME: DINESHKARTHIK N
-![file creation on machine (1)](https://github.com/user-attachments/assets/38606cee-bc70-418b-8171-dcd9d3fde5f4)
-![creation file system 2](https://github.com/user-attachments/assets/22eb5978-74c1-4575-a672-262f4da48eda)
 ![creation file system 1](https://github.com/user-attachments/assets/5e1ff2df-f160-43a6-acc7-e473f01be866)
+![creation file system 2](https://github.com/user-attachments/assets/22eb5978-74c1-4575-a672-262f4da48eda)
+![file creation on machine (1)](https://github.com/user-attachments/assets/38606cee-bc70-418b-8171-dcd9d3fde5f4)
 ![file creation on machine (2)](https://github.com/user-attachments/assets/1d0161cb-116c-4bba-b7da-bb652041e2af)
-
 
 ## RESULT
 Successfully set up a scalable file storage system using Amazon EFS shared between two Linux EC2 instances in different availability zones, enabling consistent data sharing.
